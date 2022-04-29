@@ -24,7 +24,7 @@
     "@angular/platform-browser-dynamic": "^4.4.3",
     "@angular/router": "^4.4.3",
     "@types/async": "^2.0.42",
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "core-js": "^2.4.1",
     "hammerjs": "^2.0.8",
     "js-cookie": "^2.1.4",
